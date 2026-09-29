@@ -6,7 +6,7 @@ using Beta-Binomial modeling.
 ##  Live Demo
 
 Hugging Face:
-[Live Demo]
+[https://huggingface.co/spaces/prekshaaaaaaaa/ab-test-outcome-predictor]
 
 ## 🛠️ Tech Stack
 
